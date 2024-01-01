@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Wbuiltin-macro-redefined -pedantic -Werror CMakeFiles/a.out.dir/main.cpp.o -o a.out  /usr/local/lib/libboost_filesystem.a /usr/local/lib/libboost_atomic.a 
