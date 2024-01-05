@@ -1,0 +1,6 @@
+<map id="StrassenMultiplication::calculate" name="StrassenMultiplication::calculate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,216,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="76,30,70,21,74,11,88,5,111,3,136,5,149,12,146,17,134,10,111,8,89,10,78,15,75,20,81,27"/>
+<area shape="rect" id="Node000002" href="$class_matrix.html#af26ab675de3dfed129691ac213ed485d" title=" " alt="" coords="264,29,367,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="217,39,248,39,248,45,217,45"/>
+</map>

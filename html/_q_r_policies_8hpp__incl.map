@@ -1,0 +1,9 @@
+<map id="QRPolicies.hpp" name="QRPolicies.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="52,5,164,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,56,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,33,57,70,53,66,93,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="80,79,136,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="111,31,111,63,105,63,105,31"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="160,79,219,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="124,29,166,66,163,70,120,33"/>
+</map>

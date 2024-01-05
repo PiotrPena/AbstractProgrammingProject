@@ -1,0 +1,8 @@
+<map id="QRSolver::solve" name="QRSolver::solve">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,119,56"/>
+<area shape="rect" id="Node000002" href="$class_q_r_solver.html#a76f31e44462f0ced3fd3bb7f5878d60c" title=" " alt="" coords="167,5,317,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,33,151,28,152,33,119,38"/>
+<area shape="rect" id="Node000003" href="$class_matrix.html#af26ab675de3dfed129691ac213ed485d" title=" " alt="" coords="365,31,468,56"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="119,41,350,41,350,46,119,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="318,26,350,31,350,36,317,32"/>
+</map>

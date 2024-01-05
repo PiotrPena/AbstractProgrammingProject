@@ -1,0 +1,9 @@
+<map id="Matrix::operator*" name="Matrix::operator*">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,124,56"/>
+<area shape="rect" id="Node000002" href="$class_matrix.html#ae6ac8adf82287124d7f58c8dacdff578" title=" " alt="" coords="172,31,283,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,41,157,41,157,46,124,46"/>
+<area shape="rect" id="Node000003" href="$class_matrix.html#af26ab675de3dfed129691ac213ed485d" title=" " alt="" coords="355,5,457,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="283,33,339,25,340,30,283,38"/>
+<area shape="rect" id="Node000004" href="$class_matrix.html#a2a4b6d3aff140862ff70cebf671bfbe4" title=" " alt="" coords="331,55,481,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="283,48,316,52,315,58,283,53"/>
+</map>
