@@ -129,6 +129,17 @@ public:
         return Matrix<M, P, T, Policies>(result);
     }
 
+    // Method for element-wise multiplication
+    Matrix<M, N, T> elementWiseMultiply(const Matrix<M, N, T>& other) const requires Multiplicable<T> {
+        Matrix<M, N, T> result;
+        for (int i = 0; i < M; ++i) {
+            for (int j = 0; j < N; ++j) {
+                result.data[i][j] = this->data[i][j] * other.data[i][j];
+            }
+        }
+        return result;
+    }
+
     // Method for calculating trace
     T trace() const requires SquareMatrix<M, N, T> {
 

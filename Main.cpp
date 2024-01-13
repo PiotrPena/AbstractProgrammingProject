@@ -65,6 +65,7 @@ int main() {
 
     std:: cout << "Sum of mat2 and mat3: " << mat2 + mat3 << std::endl;
     std:: cout << "Mul of mat2 and mat3: " << mat2 * mat3 << std::endl;
+    std:: cout << "Elem mul of mat2 and mat3" << mat2.elementWiseMultiply(mat3) << std::endl;
 
 
     std::cout << "mat3" << mat3 << std::endl;
